@@ -1,5 +1,8 @@
 - I’m interested in Tools that facilitate work and artificial intelligence.
 - Now I am developing myself in Python.
+- Web Front-End.
+- WoordPress
+- UI & UX designer.
 - I like to help and add a touch to people.
 
 
